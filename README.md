@@ -1,2 +1,2 @@
-# Sparta-Hackathon-Butuan-
-Entry of M1Classifiers to Sparta Hackathon challenge
+# 2021 Code-work
+Jerico Rangel, M1Classifiers, UP Diliman
